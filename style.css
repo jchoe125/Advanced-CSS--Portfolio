@@ -1,0 +1,147 @@
+/* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}*/
+
+header {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    padding: 20px;
+    background: rgba(0,0,0,0.5);
+    border-color: red;
+    border-radius: 20%;
+    justify-content: space-between;
+    /*background-image: url();
+    margin: 3% auto; 
+    text-align: center;
+    z-index: 1;
+    height: 100px;
+    color:*/ 
+}
+
+.main-header {
+    color: white;
+}
+
+.nav1 {
+  display: inline;
+  color: white;
+  background: rgba(0,0,0,0.5);
+  border-radius: 20%;
+  border-color: white;
+}
+
+nav a {
+  color: #13293d;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+main {
+    display:grid;
+    width: 100%;
+    grid-template-columns: repeat(6,1fr);
+}
+/*
+#li {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    font-size: 20px;
+    justify-content: flex-end;
+}
+*/
+
+h2 {
+    font-size: 20px;
+}
+
+About {
+    border-color: white;
+}
+
+main {
+    border-color:white;
+}
+body {
+    display:flex;
+    flex-wrap: wrap;
+    color:whitesmoke;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://i.ytimg.com/vi/INt28LvdaGg/maxresdefault.jpg);
+    border-color: white;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    transition: 1s ease-in-out;
+}
+
+.work {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-color: white;
+    margin: 10px;
+}
+
+.project {
+    padding: 20px;
+    border: 2px solid #bfbfbf;
+    border-radius: 20%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project:hover {
+    cursor: pointer;
+    background-image: url(https://c.tenor.com/3u0HmX44lvYAAAAM/michael-jordan-basketball-hall-of-fame.gif);
+    box-shadow: inset 0px 0px 8px
+    rgba(232, 102, 236, 1), 0 0 15px
+    rgba(232, 102, 236, 1);
+}
+
+.projectdetails {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    display: block;
+    font-weight: bold;
+    color:aquamarine;
+}
+
+main {
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/*
+.card {
+    enter properties for card
+}
+
+.card:hover {
+    add properties for card when user's cursor is positioned over hte element
+    background:add color;
+    cursor: pointer; or change opacity: 0.5;
+}
+
+.card:active {
+    add properties for card when user is actively pressing down on the element
+}
+
+.card:focus {
+    add properties for card when element is in focus, either by tabbing to or clicking on it
+}*/
+
+footer {
+
+}
+
+@media
