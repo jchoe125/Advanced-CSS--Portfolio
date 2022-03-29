@@ -16,7 +16,6 @@ The first work application's image should be larger in size than the others
 Clicking on the images of the work applications takes the user to the deployed application
 Resizing the page or viewing the site on various screens and devices presents the user with a responsive layout that adapts to their viewport
 
-```
 The following screenshot shows the web application's appearance and functionality:
 
 ![website screenshot](https://github.com/jchoe125/Advanced-CSS--Portfolio/blob/main/Images/Website%20screenshot.jpeg)
