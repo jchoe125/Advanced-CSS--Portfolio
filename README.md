@@ -23,6 +23,6 @@ The following screenshot shows the web application's appearance and functionalit
 
 **Submission**
 * The URL of the deployed application.
-  * URL of deployed application: https://jchoe125.github.io/Horiseon/
+  * URL of deployed application: https://jchoe125.github.io/Advanced-CSS--Portfolio/
 * The URL of the GitHub repository, with a unique name and a README that describes the project
   * URL to GitHub repository: https://github.com/jchoe125/Advanced-CSS--Portfolio
