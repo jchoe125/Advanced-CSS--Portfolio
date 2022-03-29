@@ -19,5 +19,10 @@ Resizing the page or viewing the site on various screens and devices presents th
 ```
 The following screenshot shows the web application's appearance and functionality:
 
-![portfolio demo](./Images/Website%20screenshot.jpeg)
+![website screenshot](https://github.com/jchoe125/Advanced-CSS--Portfolio/blob/main/Images/Website%20screenshot.jpeg)
 
+**Submission**
+* The URL of the deployed application.
+  * URL of deployed application: https://jchoe125.github.io/Horiseon/
+* The URL of the GitHub repository, with a unique name and a README that describes the project
+  * URL to GitHub repository: https://github.com/jchoe125/Advanced-CSS--Portfolio
