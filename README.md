@@ -20,6 +20,10 @@ Resizing the page or viewing the site on various screens and devices presents th
 
 ![website screenshot](https://github.com/jchoe125/Advanced-CSS--Portfolio/blob/main/Images/Website%20screenshot.jpeg)
 
+**Technologies Used**
+* HTML
+* CSS
+
 **Submission**
 * The URL of the deployed application.
   * URL of deployed application: https://jchoe125.github.io/Advanced-CSS--Portfolio/
