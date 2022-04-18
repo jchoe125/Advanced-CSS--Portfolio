@@ -28,9 +28,9 @@ Resizing the page or viewing the site on various screens and devices presents th
 ![MIT license](license.txt)
 
 **Contact Me**
-Email: joechoe125@gmail.com
-Github: https://github.com/jchoe125
-LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
+* Email: joechoe125@gmail.com
+* Github: https://github.com/jchoe125
+* LinkedIn: https://www.linkedin.com/in/joe-choe-a97b52237/
 
 **Submission**
 * The URL of the deployed application.
