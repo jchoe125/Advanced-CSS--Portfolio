@@ -25,7 +25,7 @@ Resizing the page or viewing the site on various screens and devices presents th
 * CSS
 
 **License**
-![MIT license](license.txt)
+* ![MIT license](license.txt)
 
 **Contact Me**
 * Email: joechoe125@gmail.com
