@@ -24,6 +24,9 @@ Resizing the page or viewing the site on various screens and devices presents th
 * HTML
 * CSS
 
+**License**
+![MIT license](./license.txt)
+
 **Submission**
 * The URL of the deployed application.
   * URL of deployed application: https://jchoe125.github.io/Advanced-CSS--Portfolio/
