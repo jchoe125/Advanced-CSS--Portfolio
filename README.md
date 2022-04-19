@@ -25,7 +25,7 @@ Resizing the page or viewing the site on various screens and devices presents th
 * CSS
 
 **License**
-* ![MIT license](license.txt)
+* [license](https://github.com/jchoe125/Advanced-CSS--Portfolio/blob/main/licenseMITtxt)
 
 **Contact Me**
 * Email: joechoe125@gmail.com
